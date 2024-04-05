@@ -1,0 +1,39 @@
+kindly install these sw in this order
+----------------------------------------
+1. Python 3.10.9
+2. VSCodeUserSetup
+3. VC_redist.x64
+4. vcredist_x64
+5. wampserver3.2.0_x64
+
+
+did sir send u the project? yes sir
+where is that  file?
+ ok
+did you have winrar in you pc?
+no sir
+can u add the folder once again in the file manager from your whTS app ok sir
+5 min ok sir
+
+ok?
+can you once show how to deploy the project sir?
+
+ok i'll start froom the e gininning ok sir
+first open vs code
+then open the projecct folder in vs code
+open the terminal in vs code and within terminal selecct cmd.
+in terminal first activate the env by usinng the command "myenv\Scripts\activate.bat"
+then
+type "python manage.py runserver" in  the cmd this will give the link to the website open the link and you can access the website.
+To access the admin enter email as
+admin@gmail.com
+and enter password as
+admin
+
+
+
+ok? yes sir
+any more q's? no sir
+ok
+
+disconnect the server ok sir
